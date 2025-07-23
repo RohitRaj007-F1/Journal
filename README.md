@@ -9,7 +9,9 @@ Google Cybersecurity Certificate – My Weekly Logs 📚
  Week 6: Ethics in Cybersecurity
  
  Currently in Module 3: Understanding Frameworks and Controls(Completed)
-              now Learning about Ethics in Cybersecurity
+              now Learning about Ethics in Cybersecurity -19th July '25
+
+Update: Completed module 3, Now into module 4 -23 july '25
 
 
  🔗 External Links
