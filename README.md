@@ -19,4 +19,4 @@ Update: Completed module 3, Now into module 4 -23 july '25
 
 
  Why I’m Doing This ?
-To build a good understanding in the field and apply for an internship in cybersecurity.
+To build a good understanding in the field, get practical experience in building projects, CTF's,etc and get a good job in  cybersecurity.
